@@ -16,14 +16,14 @@ A Restaurant finder using an API from https://rapidapi.com/apidojo/api/travel-ad
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS, API
+**Client:** React, TailwindCSS, RAPID API
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/jgsamaaa/React-QR-Code-Generator.git
+  git clone https://github.com/jgsamaaa/foodguide.git
 ```
 
 Go to the project directory
