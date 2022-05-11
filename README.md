@@ -47,4 +47,4 @@ Start the server
 ## Future Implementation
 
 - Add some Styles.
-- Add option to make them choose what color they like to use.
+- Add more selection so I the user can search for Hotels and Attractions.
