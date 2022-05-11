@@ -1,14 +1,12 @@
-
 # Food Guide
 
 A Restaurant finder using an API from https://rapidapi.com/apidojo/api/travel-advisor/. You can search Restaurnts anywhere and you can search with the restaurants ratings as well.
-
 
 ## Home
 
 ![FoodGuide](https://i.ibb.co/6rxX2n9/denverfood.png)
 
-## Generate QR Code
+## Rating
 
 ![Rating](https://i.ibb.co/bbnNQ6g/foodratingrating.png)
 
@@ -18,10 +16,7 @@ A Restaurant finder using an API from https://rapidapi.com/apidojo/api/travel-ad
 
 ## Tech Stack
 
-**Client:** React, TailwindCSS,  API
-
-
-
+**Client:** React, TailwindCSS, API
 
 ## Run Locally
 
@@ -48,7 +43,6 @@ Start the server
 ```bash
   npm  start
 ```
-
 
 ## Future Implementation
 
